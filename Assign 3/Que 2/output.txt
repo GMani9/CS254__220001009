@@ -1,0 +1,20 @@
+Test Case 1:
+Maximum subarray sum: 22
+Subarray: 3 + 4 + 5 + -1 + -1 + 12 = 22
+
+Test Case 2:
+Maximum subarray sum: -1
+Subarray: -1 = -1
+
+Test Case 3:
+Maximum subarray sum: 15
+Subarray: 1 + 2 + 3 + 4 + 5 = 15
+
+Test Case 4:
+Maximum subarray sum: 6
+Subarray: 4 + -1 + 2 + 1 = 6
+
+Test Case 5:
+Maximum subarray sum: 6
+Subarray: 4 + -1 + 2 + 1 = 6
+
