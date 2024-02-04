@@ -1,0 +1,2 @@
+No of inversions : 3
+No of inversions : 2628
